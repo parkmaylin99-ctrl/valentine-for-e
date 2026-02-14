@@ -127,7 +127,7 @@ function Main() {
             alt="Love cat" 
             className="love-gif"
           />
-          <p className="final-message">thank you☺️❤️</p>
+          <p className="final-message">thank you, Emirka ☺️❤️</p>
         </div>
       )}
     </div>
