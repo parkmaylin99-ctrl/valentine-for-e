@@ -1,11 +1,11 @@
 import { useState, useRef } from 'react'
 import './style.css'
-import lovecat from '../../assets/positive energies - Forum.gif'
+import lovecat from './../../assets/positive energies - Forum.gif'
 import one from '../../assets/08b58782c12322cf2ffa5b91472f97fd.gif'
-import one1 from '../../assets/Sad Cat Sticker - Find & Share on GIPHY.gif'
-import one2 from '../../assets/Без названия (1).gif'
-import one3 from '../../assets/Без названия (2).gif'
-import one4 from '../../assets/Без названия.gif'
+import one1 from '../../assets/nn.gif'
+import one2 from '../../assets/nn2.gif'
+import one3 from '../../assets/nn3.gif'
+import one4 from '../../assets/nn4.gif'
 import SpotifyPlayer from '../SpotifyPlayer/SpotifyPlayer'
 
 
